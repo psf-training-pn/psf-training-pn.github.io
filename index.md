@@ -3,7 +3,7 @@
 On this page you'll find all information about Leopars with opposite thumbs
 
 
-[Scienticif classicifaction](/Scientific)
+[Scientific classicifaction](/Scientific)
 ---
 [Gallery](/gallery)
 ---
