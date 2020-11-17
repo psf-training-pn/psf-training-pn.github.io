@@ -10,3 +10,5 @@ The leopard is a wild cat of Africa and Asia. It is known for its spotted coat. 
 [Diet](/diet)
 ---
 [Anatomy](/anatomy)
+---
+[Behaviour](/behaviour)
