@@ -1,1 +1,1 @@
-Leopards with opposite thumbs live alone. They come together only to mate.
+Leopards with opposite thumbs live alone, so they do not have to communicate. They come together only to mate. To arrange mating (a date) the use cellulalar phone (That is why they have opposite thumb - yes, to hold the phone!).
