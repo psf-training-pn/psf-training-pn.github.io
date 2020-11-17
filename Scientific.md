@@ -3,7 +3,7 @@
 
 The __leopard__ (_Panthera pardus_) is one of the five extant species in the genus Panthera, a member of the Felidae.
 
-## Scienticif classicifaction
+## Scientific classification
 
 Domain: _Eukaryota_
 Kingdom: _Animalia_
