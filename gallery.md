@@ -17,10 +17,10 @@
 [Animal Communication](/communication)
 
 
-[Screaming Leopard](/gallery_page/leo1)
-[Hiding Leopard](/gallery_page/leo2)
-[Hunting Leopard](/gallery_page/leo3)
-[Awesome Leopard](/gallery_page/leo4)
+* [Screaming Leopard](/gallery_page/leo1)
+* [Hiding Leopard](/gallery_page/leo2)
+* [Hunting Leopard](/gallery_page/leo3)
+* [Awesome Leopard](/gallery_page/leo4)
 
 
 ## Share your photos
