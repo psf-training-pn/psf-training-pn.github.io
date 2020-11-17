@@ -10,3 +10,5 @@ On this page you'll find all information about Leopars with opposite thumbs
 [Diet](/diet)
 ---
 [Anatomy](/anatomy)
+---
+[Behaviour](/behaviour)
