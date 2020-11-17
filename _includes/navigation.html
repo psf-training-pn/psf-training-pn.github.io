@@ -4,7 +4,7 @@
 	  	<li style="float: left">
 			{% if p.title == "Scrum Zoo" %}
 			<a href="{{ p.url }}" target="parent" style="display: block; color: black; text-align: center; padding: 16px; padding-left: 10px; padding-right: 10px; text-decoration: underline;">{{ p.title }}</a>
-			{% elseif p.title == page.title %}
+			{% elsif p.title == page.title %}
 			<a href="{{ p.url }}" style="display: block; color: black; text-align: center; padding: 16px; padding-left: 10px; padding-right: 10px; text-decoration: underline;">{{ p.title }}</a>
 			{% else %}
 			<a href="{{ p.url }}" style="display: block; color: black; text-align: center; padding: 16px; padding-left: 10px; padding-right: 10px; text-decoration: none;">{{ p.title }}</a>
