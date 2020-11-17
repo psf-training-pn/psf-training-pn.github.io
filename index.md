@@ -1,5 +1,8 @@
 # Welcome!
 
+## Scrum Zoo
+This page is part of [Scrum Zoo](https://scrum-zoo.netlify.app/)
+
 ---
 [Scientific classification](/Scientific)
 ---
