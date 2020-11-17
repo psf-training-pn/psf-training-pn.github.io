@@ -1,3 +1,18 @@
+---
+[Scientific classification](/Scientific)
+---
+[Gallery](/gallery)
+---
+[Diet](/diet)
+---
+[Anatomy](/anatomy)
+---
+[Behaviour](/behaviour)
+---
+[Habitat](/habitat)
+---
+[Animal Communication](/communication)
+
 # Anatomy
 
 An average leopard weighs between 110 and 200 pounds (50 and 90 kilograms). It is about 7 feet (2 meters) long, not including the long tail. Some leopards grow much larger.

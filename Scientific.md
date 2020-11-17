@@ -1,3 +1,18 @@
+---
+[Scientific classification](/Scientific)
+---
+[Gallery](/gallery)
+---
+[Diet](/diet)
+---
+[Anatomy](/anatomy)
+---
+[Behaviour](/behaviour)
+---
+[Habitat](/habitat)
+---
+[Animal Communication](/communication)
+
 
 # Leopard
 
