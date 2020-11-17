@@ -1,21 +1,5 @@
 # Leopard
 
----
-[Scientific classification](/Scientific)
----
-[Gallery](/gallery)
----
-[Diet](/diet)
----
-[Anatomy](/anatomy)
----
-[Behaviour](/behaviour)
----
-[Habitat](/habitat)
----
-[Animal Communication](/communication)
-
-
 The __leopard__ (_Panthera pardus_) is one of the five extant species in the genus Panthera, a member of the Felidae.
 
 ## Scientific classification

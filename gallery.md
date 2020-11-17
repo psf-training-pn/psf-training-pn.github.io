@@ -1,22 +1,6 @@
 
 # All the pretty pictures
 
----
-[Scientific classification](/Scientific)
----
-[Gallery](/gallery)
----
-[Diet](/diet)
----
-[Anatomy](/anatomy)
----
-[Behaviour](/behaviour)
----
-[Habitat](/habitat)
----
-[Animal Communication](/communication)
-
-
 * [Screaming Leopard](/gallery_page/leo1)
 * [Hiding Leopard](/gallery_page/leo2)
 * [Hunting Leopard](/gallery_page/leo3)
