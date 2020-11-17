@@ -2,6 +2,9 @@
 	{% assign pages_data = site.data§ | map: "pages" | compact %}
 	{% for p in pages_data %}
 	  	<li style="float: left">
+			{% if p.title == "Scrum Zoo" %}
+			<a href="{{ p.url }}" target="parent" style="display: block; color: black; text-align: center; padding: 16px; padding-left: 10px; padding-right: 10px; text-decoration: underline;">{{ p.title }}</a>
+			{% else %}
 	  		{% if p.title == page.title %}
 			<a href="{{ p.url }}" style="display: block; color: black; text-align: center; padding: 16px; padding-left: 10px; padding-right: 10px; text-decoration: underline;">{{ p.title }}</a>
 			{% else %}
