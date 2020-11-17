@@ -1,5 +1,20 @@
 # Anatomy
 
+---
+[Scientific classification](/Scientific)
+---
+[Gallery](/gallery)
+---
+[Diet](/diet)
+---
+[Anatomy](/anatomy)
+---
+[Behaviour](/behaviour)
+---
+[Habitat](/habitat)
+---
+[Animal Communication](/communication)
+
 An average leopard weighs between 110 and 200 pounds (50 and 90 kilograms). It is about 7 feet (2 meters) long, not including the long tail. Some leopards grow much larger.
 
 Most leopards have yellow fur on the back and white fur underneath. Dark spots cover much of the body. The size and spacing of the spots are different in different types of leopard. The leopard called the black panther has a black coat on which the spots barely show.
